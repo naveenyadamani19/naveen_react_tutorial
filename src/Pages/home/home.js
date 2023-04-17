@@ -1,16 +1,3 @@
-import LOGO from "../../assets/envato_market.svg";
-import Bumper from "../../assets/bumper1.png";
-import Iphone from "../../assets/iphone.png";
-import Main from "../../assets/main.png";
-import Red from "../../assets/red.png";
-import Orange from "../../assets/orange.png";
-import Blue from "../../assets/blue.png";
-import Turquoise from "../../assets/turquoise.png";
-import Greyscale from "../../assets/grayscale.png";
-import Swipe from "../../assets/swipe.png";
-import Qrcode from "../../assets/qrcode.png";
-import Checked from "../../assets/checked.png";
-import Mobiles from "../../assets/mobiles.jpg";
 import "./home.css";
 import { useEffect, useRef, useState } from "react";
 export default function Home() {
@@ -22,6 +9,7 @@ export default function Home() {
     // count.current = count.current + 1;
     // console.log(count.current.focus());
   });
+
   // const focusInput = () => {
   //   count.current.focus();
   //   console.log(count.current.focus());
