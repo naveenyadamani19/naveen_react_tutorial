@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/naveen_react-tutorial/static/css/main.a75ed402.css",
+    "main.js": "/naveen_react-tutorial/static/js/main.e74aa402.js",
+    "static/media/bg.jpg": "/naveen_react-tutorial/static/media/bg.52045d8aa3e6a2a24582.jpg",
+    "index.html": "/naveen_react-tutorial/index.html",
+    "main.a75ed402.css.map": "/naveen_react-tutorial/static/css/main.a75ed402.css.map",
+    "main.e74aa402.js.map": "/naveen_react-tutorial/static/js/main.e74aa402.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a75ed402.css",
+    "static/js/main.e74aa402.js"
+  ]
+}
