@@ -1,23 +1,14 @@
 {
   "files": {
     "main.css": "/react-tutorial/static/css/main.0ee77713.css",
-    "main.js": "/react-tutorial/static/js/main.2af2d994.js",
+    "main.js": "/react-tutorial/static/js/main.e74aa402.js",
     "static/media/bg.jpg": "/react-tutorial/static/media/bg.52045d8aa3e6a2a24582.jpg",
-    "static/media/mobiles.jpg": "/react-tutorial/static/media/mobiles.fffb0ef6556e48a6bd24.jpg",
-    "static/media/iphone.png": "/react-tutorial/static/media/iphone.33d648724cc5a07c6487.png",
-    "static/media/red.png": "/react-tutorial/static/media/red.14760e22f68392839ff7.png",
-    "static/media/turquoise.png": "/react-tutorial/static/media/turquoise.65ff374354747f3e714f.png",
-    "static/media/blue.png": "/react-tutorial/static/media/blue.acc9b623460714e4547b.png",
-    "static/media/main.png": "/react-tutorial/static/media/main.9e64eb30ad4bbb0fe1c9.png",
-    "static/media/orange.png": "/react-tutorial/static/media/orange.3e3356f264cee57823a8.png",
-    "static/media/grayscale.png": "/react-tutorial/static/media/grayscale.6384f0e5362848550078.png",
-    "static/media/envato_market.svg": "/react-tutorial/static/media/envato_market.f6121fbbfec25dbc851a3e5aea13c8ad.svg",
     "index.html": "/react-tutorial/index.html",
     "main.0ee77713.css.map": "/react-tutorial/static/css/main.0ee77713.css.map",
-    "main.2af2d994.js.map": "/react-tutorial/static/js/main.2af2d994.js.map"
+    "main.e74aa402.js.map": "/react-tutorial/static/js/main.e74aa402.js.map"
   },
   "entrypoints": [
     "static/css/main.0ee77713.css",
-    "static/js/main.2af2d994.js"
+    "static/js/main.e74aa402.js"
   ]
 }
